@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Token từ BotFather - Thay YOUR_TOKEN_HERE bằng token của bạn
-TOKEN = "7693496238:AAFU1ctY0aMbR8_6u-dhlmT8sE52JzqAFPo"
+TOKEN = "token của bot"
 
 # Cấu hình API SePay - Thay thế bằng thông tin API của bạn
 SEPAY_API_URL = "https://api.sepay.vn/api"
